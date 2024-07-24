@@ -1,0 +1,165 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+// Define messages
+message RegisterSellerRequest {
+  string address = 1;
+  string uuid = 2;
+}
+
+message RegisterSellerResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message SellItemRequest {
+  // Define the details of the item to be sold
+}
+
+message SellItemResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+  int32 item_id = 2;
+}
+
+message UpdateItemRequest {
+  int32 item_id = 1;
+  // Define the details to update
+}
+
+message UpdateItemResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message DeleteItemRequest {
+  int32 item_id = 1;
+}
+
+message DeleteItemResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message DisplaySellerItemsRequest {
+  string address = 1;
+  string uuid = 2;
+}
+
+message DisplaySellerItemsResponse {
+  // Define the details of the displayed items
+}
+
+message SearchItemRequest {
+  string item_name = 1;
+  string category = 2;
+}
+
+message SearchItemResponse {
+  repeated ItemDetails items = 1;
+
+  message ItemDetails {
+    int32 id = 1;
+    string name = 2;
+    // Include other details
+  }
+}
+
+message BuyItemRequest {
+  int32 item_id = 1;
+  int32 quantity = 2;
+  string buyer_address = 3;
+}
+
+message BuyItemResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message AddToWishListRequest {
+  int32 item_id = 1;
+  string buyer_address = 2;
+}
+
+message AddToWishListResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message RateItemRequest {
+  int32 item_id = 1;
+  string buyer_address = 2;
+  int32 rating = 3;
+}
+
+message RateItemResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message NotifyClientRequest {
+  // Include details of the updated item here
+}
+
+message NotifyClientResponse {
+  enum Status {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  Status status = 1;
+}
+
+message sellItemRequest {
+  // Define the details of the item to be sold:
+  string item_name = 1;
+  string category = 2;
+}
+
+message displaySellerItemsRequest {
+  string seller_address = 1;
+  string seller_uuid = 2;
+}
+
+// Define services
+service SellerService {
+  rpc registerSeller(RegisterSellerRequest) returns (RegisterSellerResponse);
+  rpc sellItem(SellItemRequest) returns (SellItemResponse);
+  rpc updateItem(UpdateItemRequest) returns (UpdateItemResponse);
+  rpc deleteItem(DeleteItemRequest) returns (DeleteItemResponse);
+  rpc displaySellerItems(DisplaySellerItemsRequest) returns (DisplaySellerItemsResponse);
+}
+
+service BuyerService {
+  rpc searchItem(SearchItemRequest) returns (SearchItemResponse);
+  rpc buyItem(BuyItemRequest) returns (BuyItemResponse);
+  rpc addToWishList(AddToWishListRequest) returns (AddToWishListResponse);
+  rpc rateItem(RateItemRequest) returns (RateItemResponse);
+}
+
+service MarketService {
+  rpc notifyClient(NotifyClientRequest) returns (NotifyClientResponse);
+  rpc sellItem(SellItemRequest) returns (SellItemResponse);
+  rpc displaySellerItems(DisplaySellerItemsRequest) returns (DisplaySellerItemsResponse);
+}
