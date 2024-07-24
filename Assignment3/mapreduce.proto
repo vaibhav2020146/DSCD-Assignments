@@ -1,0 +1,52 @@
+syntax = "proto3";
+package mapreduce;
+
+service MapperService{
+    rpc performMap(InputLocation) returns (MapResponse);
+    rpc partition(PartitionInput) returns (PartitionResponse);
+    rpc shuffle(ShuffleInput) returns (ShuffleResponse);
+}
+
+service ReducerService{
+    rpc ShuffleAndSort(SAndSInput) returns (SAndSResponse);
+    rpc performReduce(ReduceInput) returns (ReduceResponse);
+}
+
+message ShuffleInput{
+    int64 MyNum = 1;
+}
+message ShuffleResponse{
+    repeated string pairs = 1;
+}
+
+message SAndSInput{
+    repeated int64 MapPorts = 1;
+    int64 MyNum = 2;
+}
+
+message SAndSResponse{
+    string status = 1;
+}
+
+message ReduceInput{
+
+}
+
+message ReduceResponse{
+    string status = 1;
+}
+
+message PartitionInput{
+    string R = 1;
+}
+
+message PartitionResponse{
+    string status = 1;
+}
+message InputLocation{
+    repeated string locations = 1;
+}
+
+message MapResponse{
+    string status = 1;
+}

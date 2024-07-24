@@ -1,0 +1,3377 @@
+Iteration: 0 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17500000000000002', ' 8.141666666666667])']
+['(1', ' [9.54736842105263', ' 1.0473684210526315])']
+Iteration: 1 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17500000000000004', ' 8.141666666666666])']
+['(1', ' [9.547368421052632', ' 1.0473684210526313])']
+Iteration: 2 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17500000000000002', ' 8.141666666666666])']
+['(1', ' [9.547368421052632', ' 1.0473684210526313])']
+Iteration: 3 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17500000000000002', ' 8.141666666666666])']
+['(1', ' [9.547368421052632', ' 1.0473684210526317])']
+Iteration: 4 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17499999999999996', ' 8.141666666666666])']
+['(1', ' [9.547368421052632', ' 1.047368421052632])']
+Iteration: 5 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17499999999999993', ' 8.141666666666667])']
+['(1', ' [9.54736842105263', ' 1.047368421052632])']
+Iteration: 6 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17499999999999993', ' 8.141666666666667])']
+['(1', ' [9.547368421052628', ' 1.047368421052632])']
+Iteration: 7 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.1749999999999999', ' 8.141666666666667])']
+['(1', ' [9.547368421052626', ' 1.047368421052632])']
+Iteration: 8 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.17499999999999996', ' 8.141666666666667])']
+['(1', ' [9.547368421052624', ' 1.047368421052632])']
+Iteration: 9 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-0.175', ' 8.14166666666667])']
+['(1', ' [9.547368421052623', ' 1.047368421052632])']
+Iteration: 0 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [199.5706', ' 198.70379999999997])']
+['(1', ' [-83.23549333333334', ' -88.41556809523809])']
+['(2', ' [184.987', ' 215.088])']
+Iteration: 1 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.8096363636364', ' 196.70790909090908])']
+['(1', ' [-89.92904195121952', ' -94.88299658536585])']
+['(2', ' [184.98699999999997', ' 215.08799999999997])']
+Iteration: 2 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.58582352941178', ' 196.12088235294118])']
+['(1', ' [-92.23337836065573', ' -97.10948836065576])']
+['(2', ' [184.98699999999997', ' 215.08799999999997])']
+Iteration: 3 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.47878260869564', ' 195.84013043478262])']
+['(1', ' [-93.39977086419752', ' -98.2364780246914])']
+['(2', ' [184.98699999999997', ' 215.08799999999997])']
+Iteration: 4 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.41603448275856', ' 195.6755517241379])']
+['(1', ' [-94.10422574257426', ' -98.91713514851492])']
+['(2', ' [184.98699999999997', ' 215.08799999999997])']
+Iteration: 5 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.37479999999994', ' 195.56739999999996])']
+['(1', ' [-94.5758029752066', ' -99.37278165289261])']
+['(2', ' [184.98699999999997', ' 215.08799999999997])']
+Iteration: 6 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.34563414634138', ' 195.49090243902432])']
+['(1', ' [-94.9135994326241', ' -99.69916673758871])']
+['(2', ' [184.987', ' 215.08799999999997])']
+Iteration: 7 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.32391489361694', ' 195.4339361702127])']
+['(1', ' [-95.1674713043478', ' -99.9444623602485])']
+['(2', ' [184.987', ' 215.08799999999997])']
+Iteration: 8 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.3071132075471', ' 195.38986792452823])']
+['(1', ' [-95.36523889502757', ' -100.1355490055249])']
+['(2', ' [184.987', ' 215.08799999999997])']
+Iteration: 9 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [198.29372881355926', ' 195.35476271186437])']
+['(1', ' [-95.52364975124377', ' -100.28860845771149])']
+['(2', ' [184.98700000000002', ' 215.08799999999997])']
+Iteration: 0 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [9.686784545454545', ' 5.4909])']
+['(1', ' [-1105.8435108709677', ' 1098.1599361290323])']
+['(2', ' [2014.274705882353', ' -2006.0135294117645])']
+['(3', ' [-2006.8570000000004', ' -2010.801])']
+['(4', ' [2009.3561904761902', ' 2013.2314285714292])']
+Iteration: 1 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-79.20903530136988', ' -1018.3190709589041])']
+['(1', ' [-1105.8435108709677', ' 1098.1599361290323])']
+['(2', ' [2014.8640740740743', ' -521.6485185185182])']
+['(3', ' [-2008.5781081081082', ' -163.05999999999983])']
+['(4', ' [2007.3218749999999', ' 2016.812500000001])']
+Iteration: 2 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-58.944936571428606', ' -759.3544312244898])']
+['(1', ' [-1426.2791424375', ' 1421.3699587499996])']
+['(2', ' [2014.6363636363637', ' -1095.1531818181813])']
+['(3', ' [-2007.9742105263158', ' -811.3901754385964])']
+['(4', ' [2008.1279245283013', ' 2015.3935849056616])']
+Iteration: 3 started 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [-46.91827634959354', ' -605.6599702439024])']
+['(1', ' [-1579.1022897999999', ' 1575.5162772307688])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.6840259740254', ' -1122.9254545454546])']
+['(4', ' [2008.4764864864862', ' 2014.7800000000009])']
+Iteration: 4 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [172.59016849696965', ' -658.6536267878787])']
+['(1', ' [-1668.559741914634', ' 1665.748268536585])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.5135051546376', ' -1305.992577319588])']
+['(4', ' [2008.670947368421', ' 2014.4376842105264])']
+Iteration: 5 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [303.02272268115934', ' -690.1426111111108])']
+['(1', ' [-1727.2944326969698', ' 1724.9914951515157])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.4012820512798', ' -1426.47264957265])']
+['(4', ' [2008.795', ' 2014.2193103448274])']
+Iteration: 6 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [389.4539332851406', ' -711.0088055421681])']
+['(1', ' [-1768.8137830775865', ' 1766.870327758622])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.3218248175158', ' -1511.776058394161])']
+['(4', ' [2008.8810218978103', ' 2014.0678832116782])']
+Iteration: 7 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [450.9359284570447', ' -725.8517685910646])']
+['(1', ' [-1799.7191641879704', ' 1798.0432933834602])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.2626114649665', ' -1575.346114649682])']
+['(4', ' [2008.9441772151908', ' 2013.9567088607594])']
+Iteration: 8 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [496.90895187387395', ' -736.9505607807799])']
+['(1', ' [-1823.6193255800001', ' 1822.150386800002])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.2167796610158', ' -1624.5500564971753])']
+['(4', ' [2008.9925139664822', ' 2013.871620111732])']
+Iteration: 9 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [532.5840180453333', ' -745.5632235199994])']
+['(1', ' [-1842.6535858502996', ' 1841.3494492215586])']
+['(2', ' [2014.5355737704917', ' -1348.999508196721])']
+['(3', ' [-2007.180253807106', ' -1663.7633502538074])']
+['(4', ' [2009.0307000000023', ' 2013.8044000000002])']
+Iteration: 0 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3561904761902', ' 2013.2314285714292])']
+['(1', ' [2014.274705882353', ' -2006.0135294117645])']
+['(2', ' [-1178.944281724138', ' 1182.6387103448278])']
+['(3', ' [-2006.8570000000004', ' -2010.801])']
+['(4', ' [1.1376894615384616', ' -14.85882153846154])']
+Iteration: 1 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2007.3218749999999', ' 2016.812500000001])']
+['(1', ' [2014.8640740740743', ' -521.6485185185182])']
+['(2', ' [-1178.944281724138', ' 1182.6387103448278])']
+['(3', ' [-2008.5781081081082', ' -163.05999999999983])']
+['(4', ' [-78.32032325333334', ' -994.5447568000001])']
+Iteration: 2 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.1279245283013', ' 2015.3935849056616])']
+['(1', ' [2014.6363636363637', ' -1095.1531818181813])']
+['(2', ' [-1486.2963949999998', ' 1488.680926086956])']
+['(3', ' [-2007.9742105263158', ' -811.3901754385964])']
+['(4', ' [-58.68368451000003', ' -746.7029884])']
+Iteration: 3 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.4764864864862', ' 2014.7800000000009])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1627.7759392063488', ' 1629.5575015873012])']
+['(3', ' [-2007.6840259740254', ' -1122.9254545454546])']
+['(4', ' [-46.90170126400004', ' -597.99792736])']
+Iteration: 4 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.670947368421', ' 2014.4376842105264])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1709.1266771249998', ' 1710.5615324999999])']
+['(3', ' [-2007.5135051546376', ' -1305.992577319588])']
+['(4', ' [169.97373134730535', ' -652.2839101796407])']
+Iteration: 5 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.795', ' 2014.2193103448274])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1761.962723402062', ' 1763.172397938145])']
+['(3', ' [-2007.4012820512798', ' -1426.47264957265])']
+['(4', ' [299.6839183157894', ' -684.7516032535882])']
+Iteration: 6 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.8810218978103', ' 2014.0678832116782])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1799.0406506140355', ' 1800.0923035087733])']
+['(3', ' [-2007.3218248175158', ' -1511.776058394161])']
+['(4', ' [385.9851184103586', ' -706.3536141832664])']
+Iteration: 7 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.9441772151908', ' 2013.9567088607594])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1826.495299007634', ' 1827.429943511452])']
+['(3', ' [-2007.2626114649665', ' -1575.346114649682])']
+['(4', ' [447.54467752218443', ' -721.7625571331051])']
+Iteration: 8 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2008.9925139664822', ' 2013.871620111732])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1847.6427984459458', ' 1848.487314864867])']
+['(3', ' [-2007.2167796610158', ' -1624.5500564971753])']
+['(4', ' [493.66840688656725', ' -733.3077651343275])']
+Iteration: 9 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.0307000000023', ' 2013.8044000000002])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1864.4326313333331', ' 1865.2055915151532])']
+['(3', ' [-2007.180253807106', ' -1663.7633502538074])']
+['(4', ' [529.5152310344829', ' -742.2805660477447])']
+Iteration: 10 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.061628959279', ' 2013.7499547511318])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1878.085902032967', ' 1878.800673626375])']
+['(3', ' [-2007.1504608294929', ' -1695.7483870967746])']
+['(4', ' [558.1755796968974', ' -749.4545238186155])']
+Iteration: 11 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.0871900826478', ' 2013.7049586776866])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1889.4064531155777', ' 1890.0729778894486])']
+['(3', ' [-2007.1256962025318', ' -1722.3351054852326])']
+['(4', ' [581.6136522472885', ' -755.3212962255965])']
+Iteration: 12 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.1086692015242', ' 2013.6671482889742])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1898.9450656018516', ' 1899.570937962964])']
+['(3', ' [-2007.1047859922182', ' -1744.7838132295724])']
+['(4', ' [601.1376132783299', ' -760.2083293041751])']
+Iteration: 13 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.126971830989', ' 2013.6349295774646])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1907.091777553648', ' 1907.6829296137348])']
+['(3', ' [-2007.0868953068602', ' -1763.9908303249103])']
+['(4', ' [617.6523766458714', ' -764.3421315963307])']
+Iteration: 14 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.1427540983634', ' 2013.6071475409826])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1914.13053668', ' 1914.6916904000009])']
+['(3', ' [-2007.0714141414155', ' -1780.6110437710445])']
+['(4', ' [631.8038689352638', ' -767.8843846678029])']
+Iteration: 15 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.1565030674872', ' 2013.5829447852743])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1920.2729744194755', ' 1920.807949812735])']
+['(3', ' [-2007.057886435333', ' -1795.134069400632])']
+['(4', ' [644.0654957996817', ' -770.9535864546906])']
+Iteration: 16 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.168587896256', ' 2013.5616714697383])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1925.6800498943662', ' 1926.1919809859164])']
+['(3', ' [-2007.0459643916934', ' -1807.9332937685474])']
+['(4', ' [654.7921350983602', ' -773.6385662593152])']
+Iteration: 17 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.179293478263', ' 2013.5428260869537])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1930.4763593687703', ' 1930.9678491694358])']
+['(3', ' [-2007.0353781512629', ' -1819.2984313725508])']
+['(4', ' [664.2550469060303', ' -776.007223057504])']
+Iteration: 18 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.1888431876628', ' 2013.5260154241612])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1934.7598558805023', ' 1935.2330899371073])']
+['(3', ' [-2007.025915119366', ' -1829.4577188328933])']
+['(4', ' [672.6651314397345', ' -778.1123471788082])']
+Iteration: 19 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.1974146341481', ' 2013.5109268292645])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1938.6086094626855', ' 1939.0654405970151])']
+['(3', ' [-2007.0174055415644', ' -1838.5934005037807])']
+['(4', ' [680.1888331618568', ' -779.9956012547054])']
+Iteration: 20 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2051508120667', ' 2013.4973085846827])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1942.0856084374986', ' 1942.5276210227273])']
+['(3', ' [-2007.0097122302188', ' -1846.8527577937675])']
+['(4', ' [686.9592679654347', ' -781.6903054588797])']
+Iteration: 21 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2121681415945', ' 2013.484955752208])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1945.2422335230335', ' 1945.6707929539293])']
+['(3', ' [-2007.0027231121312', ' -1854.3561098398195])']
+['(4', ' [693.0841675550505', ' -783.223426061294])']
+Iteration: 22 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.218562367866', ' 2013.4736997885786])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1948.1208139119153', ' 1948.5371051813468])']
+['(3', ' [-2006.9963457330448', ' -1861.2027133479241])']
+['(4', ' [698.6516548309852', ' -784.6170210617552])']
+Iteration: 23 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.224412955467', ' 2013.4634008097114])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1950.756536401983', ' 1951.1615945409424])']
+['(3', ' [-2007.0308193277344', ' -1867.1365966386584])']
+['(4', ' [700.9482434803303', ' -787.1757997101448])']
+Iteration: 24 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2297864077682', ' 2013.4539417475673])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1953.1788908809501', ' 1953.5736252380946])']
+['(3', ' [-2007.0905668016228', ' -1872.2897773279383])']
+['(4', ' [700.379464351484', ' -790.7479055445543])']
+Iteration: 25 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2347388059716', ' 2013.4452238805916])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1955.4127784210502', ' 1955.7979922196787])']
+['(3', ' [-2007.2106862745131', ' -1876.545274509807])']
+['(4', ' [694.7624571856048', ' -796.3315688257575])']
+Iteration: 26 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2393177737895', ' 2013.437163375219])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1957.4793704184997', ' 1957.8557766519814])']
+['(3', ' [-2007.3820841300223', ' -1879.7397323135785])']
+['(4', ' [682.3201091230756', ' -804.7584061176469])']
+Iteration: 27 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2435640138422', ' 2013.4296885813094])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1959.3967816772797', ' 1959.76501613588])']
+['(3', ' [-2007.585786516857', ' -1882.33102996255])']
+['(4', ' [666.3191058598601', ' -814.5284090311417])']
+Iteration: 28 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2475125208693', ' 2013.4227378964886])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1961.180602807374', ' 1961.5412348360644])']
+['(3', ' [-2007.7955083179334', ' -1883.9015157116487])']
+['(4', ' [642.8923469587102', ' -827.3877645912467])']
+Iteration: 29 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2511935483883', ' 2013.4162580645107])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1962.844325089106', ' 1963.1978665346521])']
+['(3', ' [-2007.9399266055084', ' -1884.717963302756])']
+['(4', ' [615.2590291252938', ' -841.9099330181244])']
+Iteration: 30 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2546333853365', ' 2013.4102028081068])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1964.3996823180046', ' 1964.7465950191556])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [584.1424464308252', ' -857.7385993082709])']
+Iteration: 31 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2578549848952', ' 2013.404531722049])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1965.8569279591807', ' 1966.1976300556564])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [553.8941376048831', ' -872.9813427873568])']
+Iteration: 32 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.260878477307', ' 2013.399209370419])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1967.225061456832', ' 1967.5599327338102])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [526.2254644697366', ' -886.9241549105922])']
+Iteration: 33 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2637215909099', ' 2013.394204545449])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1968.5120142582875', ' 1968.8414006980768])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [500.8199281873329', ' -899.7265259366765])']
+Iteration: 34 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2664000000009', ' 2013.3894896551667])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1969.7248036779645', ' 1970.049021355928])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [477.4107711818735', ' -911.5228804816235])']
+Iteration: 35 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2689276139417', ' 2013.3850402144715])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1970.8696609060944', ' 1971.1889993410168])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [455.77157482804637', ' -922.4273155365868])']
+Iteration: 36 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2713168187752', ' 2013.380834419812])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1971.952138092948', ' 1972.2668631410204])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [435.70891216862265', ' -932.5373029142202])']
+Iteration: 37 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2735786802036', ' 2013.3768527918726])']
+['(1', ' [2014.5355737704917', ' -1348.999508196721])']
+['(2', ' [-1972.9771983931353', ' 1973.2875547581846])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [417.0565500589543', ' -941.9366109070312])']
+Iteration: 38 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2757231149574', ' 2013.3730778739127])']
+['(1', ' [2016.0451470588237', ' -1415.8138235294116])']
+['(2', ' [-1973.9492920516716', ' 1974.2555054711183])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [393.39996706816663', ' -946.6671268389243])']
+Iteration: 39 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2777590361452', ' 2013.369493975898])']
+['(1', ' [2016.0451470588237', ' -1415.8138235294116])']
+['(2', ' [-1974.8724209925929', ' 1975.1747001481415])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [377.30235294523914', ' -955.0160530568867])']
+Iteration: 40 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2796944770864', ' 2013.366086956516])']
+['(1', ' [2016.0451470588237', ' -1415.8138235294116])']
+['(2', ' [-1975.7501938872838', ' 1976.0487320809177])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [362.2320698317007', ' -962.8321605146702])']
+Iteration: 41 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2815366972482', ' 2013.3628440366915])']
+['(1', ' [2016.0451470588237', ' -1415.8138235294116])']
+['(2', ' [-1976.585873300424', ' 1976.8808499294705])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [348.0938142024908', ' -970.1648777855385])']
+Iteration: 42 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2832922732368', ' 2013.359753639412])']
+['(1', ' [2016.5772857142858', ' -1432.2539999999997])']
+['(2', ' [-1977.3824162121225', ' 1977.6739980716175])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [333.15735751525125', ' -976.0754634576296])']
+Iteration: 43 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2849671772433', ' 2013.3568052516355])']
+['(1', ' [2016.5772857142858', ' -1432.2539999999997])']
+['(2', ' [-1978.1425089771212', ' 1978.4308514131815])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [320.67754069675294', ' -982.6015628208771])']
+Iteration: 44 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2865668449201', ' 2013.353989304807])']
+['(1', ' [2017.7248051948052', ' -1483.6902597402595])']
+['(2', ' [-1978.868597592107', ' 1979.1538455263071])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [303.3858454880812', ' -985.5200945004609])']
+Iteration: 45 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.28809623431', ' 2013.351297071124])']
+['(1', ' [2017.7248051948052', ' -1483.6902597402595])']
+['(2', ' [-1979.562913989706', ' 1979.8452028313939])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [292.3792783636332', ' -991.4449814082017])']
+Iteration: 46 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2895598771754', ' 2013.3487205731774])']
+['(1', ' [2017.7248051948052', ' -1483.6902597402595])']
+['(2', ' [-1980.2274989546622', ' 1980.5069554156078])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [281.96456480528735', ' -997.0512707545549])']
+Iteration: 47 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.290961923848', ' 2013.3462525050043])']
+['(1', ' [2017.7248051948052', ' -1483.6902597402595])']
+['(2', ' [-1980.8642221578325', ' 1981.1409649814946])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [272.09521631503054', ' -1002.3639875168931])']
+Iteration: 48 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2923061825322', ' 2013.343886162899])']
+['(1', ' [2017.7248051948052', ' -1483.6902597402595])']
+['(2', ' [-1981.474799722225', ' 1981.7489403381542])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [262.7294888999967', ' -1007.4056026831282])']
+Iteration: 49 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2935961538465', ' 2013.3416153846097])']
+['(1', ' [2018.6810714285714', ' -1526.5538095238092])']
+['(2', ' [-1982.0608096686422', ' 1982.3324527810548])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [248.82875002816567', ' -1009.4192903822942])']
+Iteration: 50 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2948350612628', ' 2013.3394344957526])']
+['(1', ' [2018.6810714285714', ' -1526.5538095238092])']
+['(2', ' [-1982.623705533646', ' 1982.8929496519615])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [240.45961115547362', ' -1014.0575691715744])']
+Iteration: 51 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.296025878003', ' 2013.337338262471])']
+['(1', ' [2018.6810714285714', ' -1526.5538095238092])']
+['(2', ' [-1983.1648284072844', ' 1983.431766325359])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [232.48823894441972', ' -1018.4754008279031])']
+Iteration: 52 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2971713508603', ' 2013.3353218494954])']
+['(1', ' [2018.6810714285714', ' -1526.5538095238092])']
+['(2', ' [-1983.6854176004501', ' 1983.950136830346])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [224.88693418157646', ' -1022.6881365930357])']
+Iteration: 53 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2982740213508', ' 2013.3333807829122])']
+['(1', ' [2018.6810714285714', ' -1526.5538095238092])']
+['(2', ' [-1984.1866201204857', ' 1984.4492032858593])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [217.63051115696686', ' -1026.7097346944738])']
+Iteration: 54 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.2993362445397', ' 2013.3315109170246])']
+['(1', ' [2019.3586516853932', ' -1552.8579775280894])']
+['(2', ' [-1984.6694991075308', ' 1984.9300243010637])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [207.43428773655558', ' -1028.8249308243714])']
+Iteration: 55 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3003602058297', ' 2013.3297084047967])']
+['(1', ' [2019.3586516853932', ' -1552.8579775280894])']
+['(2', ' [-1985.1350413622006', ' 1985.393582470949])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [200.8600450834466', ' -1032.5453187517514])']
+Iteration: 56 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3013479359704', ' 2013.3279696714346])']
+['(1', ' [2019.3586516853932', ' -1552.8579775280894])']
+['(2', ' [-1985.5841640767678', ' 1985.8407910788262])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [194.5655574368529', ' -1036.107392299243])']
+Iteration: 57 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3023013245004', ' 2013.3262913907224])']
+['(1', ' [2019.5306666666665', ' -1557.6597777777772])']
+['(2', ' [-1986.0177208664672', ' 1986.2725001019246])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [187.91273282823164', ' -1039.2032313411742])']
+Iteration: 58 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3032221318113', ' 2013.3246704637857])']
+['(1', ' [2019.698901098901', ' -1562.3560439560433])']
+['(2', ' [-1986.4365071843733', ' 1986.689501603194])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [181.52724833892913', ' -1042.1746657839237])']
+Iteration: 59 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3041119999964', ' 2013.323103999994])']
+['(1', ' [2020.0208602150535', ' -1571.578924731182])']
+['(2', ' [-1986.841265192123', ' 1987.0925345812682])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [174.79282033268365', ' -1044.7214268087828])']
+Iteration: 60 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.304972462624', ' 2013.321589299758])']
+['(1', ' [2020.0208602150535', ' -1571.578924731182])']
+['(2', ' [-1987.2326881492297', ' 1987.4822893410724])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [169.49644000727938', ' -1047.769230360985])']
+Iteration: 61 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3058049535562', ' 2013.3201238390031])']
+['(1', ' [2020.3292631578945', ' -1580.41347368421])']
+['(2', ' [-1987.6114243756008', ' 1987.8594114394532])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [163.2416418073301', ' -1050.1151278930981])']
+Iteration: 62 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.306610814923', ' 2013.3187052551348])']
+['(1', ' [2020.4804166666663', ' -1584.6281249999993])']
+['(2', ' [-1987.9780808349021', ' 1988.2245052532703])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [157.788334592555', ' -1052.6633588411066])']
+Iteration: 63 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.307391304343', ' 2013.3173313343268])']
+['(1', ' [2020.6284536082471', ' -1588.755876288659])']
+['(2', ' [-1988.3332263804298', ' 1988.578137211437])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [152.53422003652327', ' -1055.118510694607])']
+Iteration: 64 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3081476014709', ' 2013.315999999994])']
+['(1', ' [2020.9121212121208', ' -1596.8864646464638])']
+['(2', ' [-1988.6773947000052', ' 1988.9208387272606])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [146.91357079852574', ' -1057.2091405294077])']
+Iteration: 65 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.308880813948', ' 2013.3147093023194])']
+['(1', ' [2020.9121212121208', ' -1596.8864646464638])']
+['(2', ' [-1989.0110869919476', ' 1989.2531088630142])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [142.5815501178473', ' -1059.7656758752125])']
+Iteration: 66 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3095919828147', ' 2013.313457408727])']
+['(1', ' [2021.184554455445', ' -1604.6950495049498])']
+['(2', ' [-1989.3347744003577', ' 1989.575416754839])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [137.3251482967028', ' -1061.704719466208])']
+Iteration: 67 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3102820874412', ' 2013.3122425951985])']
+['(1', ' [2021.184554455445', ' -1604.6950495049498])']
+['(2', ' [-1989.6489002345834', ' 1989.8882038227518])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [133.3064615217598', ' -1064.0964603906205])']
+Iteration: 68 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3109520500286', ' 2013.3110632383539])']
+['(1', ' [2021.4464077669898', ' -1612.2003883495138])']
+['(2', ' [-1989.9538819948677', ' 1990.1918857876608])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [128.37876067151123', ' -1065.8992772008735])']
+Iteration: 69 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3116027397195', ' 2013.3099178082132])']
+['(1', ' [2021.4464077669898', ' -1612.2003883495138])']
+['(2', ' [-1990.2501132236334', ' 1990.4868545147579])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [124.64203715056308', ' -1068.1421096060394])']
+Iteration: 70 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3122349763607', ' 2013.308804861574])']
+['(1', ' [2021.6982857142852', ' -1619.419809523809])']
+['(2', ' [-1990.5379651996718', ' 1990.7734797004894])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [120.01201154354399', ' -1069.822068582045])']
+Iteration: 71 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3128495339479', ' 2013.307723035946])']
+['(1', ' [2021.8222641509428', ' -1622.8688679245274])']
+['(2', ' [-1990.8177884905706', ' 1991.0521104183663])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [116.02863372510753', ' -1071.6912940580037])']
+Iteration: 72 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.313447143788', ' 2013.306671043986])']
+['(1', ' [2021.9439252336442', ' -1626.2534579439243])']
+['(2', ' [-1991.089914377027', ' 1991.323076537208])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [112.17024872916315', ' -1073.501865853904])']
+Iteration: 73 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.314028497402', ' 2013.3056476683878])']
+['(1', ' [2022.0633333333328', ' -1629.5753703703695])']
+['(2', ' [-1991.3546561612175', ' 1991.586690023934])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [108.43106428259969', ' -1075.2565020308875])']
+Iteration: 74 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3145942491938', ' 2013.3046517571825])']
+['(1', ' [2022.180550458715', ' -1632.8363302752284])']
+['(2', ' [-1991.6123103700832', ' 1991.843246141724])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [104.80564055984688', ' -1076.9577552618387])']
+Iteration: 75 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3151450189077', ' 2013.3036822194138])']
+['(1', ' [2022.2956363636358', ' -1636.0379999999989])']
+['(2', ' [-1991.8631578632521', ' 1992.0930245532165])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [101.28886377744678', ' -1078.608025222297])']
+Iteration: 76 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3156813938938', ' 2013.3027380211513])']
+['(1', ' [2022.408648648648', ' -1639.1819819819807])']
+['(2', ' [-1992.1074648542988', ' 1992.3362903374157])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [97.87592212753768', ' -1080.2095698838261])']
+Iteration: 77 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3162039311958', ' 2013.301818181812])']
+['(1', ' [2022.5196428571421', ' -1642.2698214285701])']
+['(2', ' [-1992.3454838531459', ' 1992.5732949280775])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [94.56228381206428', ' -1081.7645158215996])']
+Iteration: 78 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3167131594823', ' 2013.300921770764])']
+['(1', ' [2022.628672566371', ' -1645.3030088495561])']
+['(2', ' [-1992.577454536626', ' 1992.8042769805609])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [91.34367696685129', ' -1083.2748676351587])']
+Iteration: 79 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3172095808297', ' 2013.3000479041855])']
+['(1', ' [2022.7357894736836', ' -1648.2829824561388])']
+['(2', ' [-1992.8036045535096', ' 1993.029463173425])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [88.21607128852496', ' -1084.7425165700959])']
+Iteration: 80 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3176936723746', ' 2013.2991957421584])']
+['(1', ' [2022.8410434782602', ' -1651.2111304347811])']
+['(2', ' [-1993.0241502696833', ' 1993.249068950431])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [85.17566119812273', ' -1086.1692484186383])']
+Iteration: 81 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3181658878416', ' 2013.2983644859753])']
+['(1', ' [2022.9444827586199', ' -1654.0887931034467])']
+['(2', ' [-1993.2392974586073', ' 1993.4632992080572])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [82.21885039350572', ' -1087.5567507685282])']
+Iteration: 82 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.318626658964', ' 2013.297553375643])']
+['(1', ' [2023.046153846153', ' -1656.9172649572633])']
+['(2', ' [-1993.4492419416824', ' 1993.6723489331378])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [79.34223765873382', ' -1088.9066196620627])']
+Iteration: 83 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.319076396798', ' 2013.296761687565])']
+['(1', ' [2023.1461016949145', ' -1659.6977966101676])']
+['(2', ' [-1993.6541701827166', ' 1993.876403794794])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [76.54260381267484', ' -1090.220365720543])']
+Iteration: 84 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3195154929483', ' 2013.2959887323882])']
+['(1', ' [2023.2443697478984', ' -1662.4315966386537])']
+['(2', ' [-1993.8542598402817', ' 1994.075640694439])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [73.81689969155507', ' -1091.4994197835397])']
+Iteration: 85 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3199443207031', ' 2013.2952338530006])']
+['(1', ' [2023.3409999999992', ' -1665.1198333333314])']
+['(2', ' [-1994.0496802814039', ' 1994.270228277277])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [71.16223507113529', ' -1092.7451381072317])']
+Iteration: 86 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3203632360937', ' 2013.2944964226685])']
+['(1', ' [2023.3409999999992', ' -1665.1198333333314])']
+['(2', ' [-1994.2405930597054', ' 1994.4603274084077])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [68.99042971979425', ' -1094.1466758507167])']
+Iteration: 87 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3207725788802', ' 2013.2937758433018])']
+['(1', ' [2023.5267213114746', ' -1670.4657377049161])']
+['(2', ' [-1994.4271523608354', ' 1994.6460916163603])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [66.05526836435227', ' -1095.1390663418588])']
+Iteration: 88 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3211726734703', ' 2013.2930715438347])']
+['(1', ' [2023.618699186991', ' -1673.0230894308925])']
+['(2', ' [-1994.6095054177756', ' 1994.827667506627])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [63.59782067166608', ' -1096.292271324002])']
+Iteration: 89 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.321563829777', ' 2013.2923829787173])']
+['(1', ' [2023.618699186991', ' -1673.0230894308925])']
+['(2', ' [-1994.7877928983644', ' 1995.0051951475368])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [61.601905306533425', ' -1097.5970969955224])']
+Iteration: 90 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3219463440191', ' 2013.2917096265062])']
+['(1', ' [2023.709193548386', ' -1675.5391935483851])']
+['(2', ' [-1994.962149267189', ' 1995.1788084306056])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [59.25954107338751', ' -1098.6917930378868])']
+Iteration: 91 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3223204994692', ' 2013.2910509885476])']
+['(1', ' [2023.7982399999992', ' -1678.015039999998])']
+['(2', ' [-1995.1327031238009', ' 1995.3486354073086])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [56.97378706933109', ' -1099.760032480178])']
+Iteration: 92 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3226865671536', ' 2013.2904065877449])']
+['(1', ' [2023.885873015872', ' -1680.4515873015853])']
+['(2', ' [-1995.299577519039', ' 1995.5147986040574])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [54.74261556449074', ' -1100.8027629751298])']
+Iteration: 93 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3230448065067', ' 2013.2897759674074])']
+['(1', ' [2023.972125984251', ' -1682.8497637795253])']
+['(2', ' [-1995.462890251102', ' 1995.6774153170086])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [52.56409452842998', ' -1101.8208874506645])']
+Iteration: 94 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.323395465984', ' 2013.2891586901703])']
+['(1', ' [2024.057031249999', ' -1685.2104687499977])']
+['(2', ' [-1995.6227541428607', ' 1995.8365978881957])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [50.43638205027392', ' -1102.815266717632])']
+Iteration: 95 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3237387836382', ' 2013.288554336983])']
+['(1', ' [2024.057031249999', ' -1685.2104687499977])']
+['(2', ' [-1995.779277301786', ' 1995.9924539643487])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [48.733024805966934', ' -1103.9532122199])']
+Iteration: 96 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3240749876554', ' 2013.2879625061607])']
+['(1', ' [2024.1406201550378', ' -1687.5345736434085])']
+['(2', ' [-1995.9325633637504', ' 1996.1450867396568])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [46.697842004292696', ' -1104.900452812837])']
+Iteration: 97 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3244042968638', ' 2013.287382812494])']
+['(1', ' [2024.2229230769221', ' -1689.8229230769207])']
+['(2', ' [-1996.0827117218575', ' 1996.2945951836218])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [44.70851188993226', ' -1105.8263520664686])']
+Iteration: 98 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [2009.3247269212068', ' 2013.2868148864125])']
+['(1', ' [2024.303969465648', ' -1692.0763358778602])']
+['(2', ' [-1996.229817741362', ' 1996.4410742550633])']
+['(3', ' [-2007.9886813186852', ' -1884.9090659340698])']
+['(4', ' [42.76350213239286', ' -1106.7316231774882])']
+Iteration: 99 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+Iteration: 0 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [1472.0339111153849', ' 158.17107769230773])']
+['(1', ' [-1991.6599999999999', ' 2023.73])']
+['(2', ' [-2013.1286666666665', ' 2009.0226666666667])']
+['(3', ' [-1298.0031479032264', ' -1301.4428425806452])']
+Iteration: 1 started 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+MapResponse: SUCCESS 
+ALL MAP OPERATIONS DONE 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+PartitionResponse: SUCCESS 
+ALL PARTITION OPERATIONS DONE 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+SAndSResponse: SUCCESS 
+ALL SHUFFLE AND SORT OPERATIONS DONE 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ReduceResponse: SUCCESS 
+ALL REDUCE OPERATIONS DONE 
+New Centroids: 
+['(0', ' [1330.3527754000002', ' 141.92246921739127])']
+['(1', ' [-1994.4328571428573', ' 2019.4985714285717])']
+['(2', ' [-2014.7951851851851', ' 2008.4855555555555])']
+['(3', ' [-1575.9850506862747', ' -1579.6225121568627])']
